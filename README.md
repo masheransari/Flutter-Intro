@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![App Screenshot](graphics/1st.png "App Screenshot"){:height="700px" width="400px"}
+![App Screenshot](graphics/1st.png "App Screenshot"|width=100px)
 
